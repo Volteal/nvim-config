@@ -6,4 +6,5 @@
 catppuccin/nvim
 nvim-telescope
 nvim-treesitter
+neo-tree.nvim
 ```

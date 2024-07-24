@@ -5,9 +5,6 @@ return {
 
 		null_ls.setup({
 			sources = {
-				-- General setup
-				null_ls.builtins.completion.spell,
-
 				-- Lua setup
 				null_ls.builtins.formatting.stylua,
 				null_ls.builtins.diagnostics.selene,

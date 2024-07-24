@@ -8,7 +8,7 @@ return {
 
     toggleterm.setup({
       size = 15,
-      open_mapping = [[<S-p>]],
+      open_mapping = [[<S-o>]],
       hide_numbers = true,
       shade_filetypes = {},
       shading_factor = 2,

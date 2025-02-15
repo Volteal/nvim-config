@@ -1,0 +1,11 @@
+vim.cmd("set expandtab")
+vim.cmd("set tabstop=2")
+vim.cmd("set softtabstop=2")
+vim.cmd("set shiftwidth=2")
+vim.cmd("set number")
+vim.cmd("set numberwidth=3")
+
+vim.g.mapleader = " "
+
+vim.opt.spell = true
+vim.opt.spelllang = "en_us"
